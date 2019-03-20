@@ -1,6 +1,11 @@
 ## 04_sideProject-SCSS_Practice
 
-#### Editor를 위한 SCSS (SASS) 연습
+### Editor를 위한 SCSS (SASS) 연습
+
+#### 연습 결과 보기 : <br>
+https://banjag954.github.io/04_sideProject-SCSS_Practice/
+
+
 
 #### 참고자료
 
