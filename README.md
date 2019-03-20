@@ -4,16 +4,15 @@
 
 #### 참고자료
 
----SASS guide [Main]
-https://sass-lang.com
+>__1. SASS guide [Main]__ <br>
+>https://sass-lang.com
 
----SASS guide [KR]
-https://sass-guidelin.es/ko
+>__2. SASS guide [KR]__
+>https://sass-guidelin.es/ko
 
---- About Tip & REF
-https://heropy.blog/2018/01/31/sass/
-https://poiemaweb.com/sass-basics
+>__3. About Tip & REF__
+>https://heropy.blog/2018/01/31/sass/
+>https://poiemaweb.com/sass-basics
 
---- REF : youtube
-
-https://www.youtube.com/watch?v=roywYSEPSvc
+>__4. Tuto : youtube__
+>https://www.youtube.com/watch?v=roywYSEPSvc
