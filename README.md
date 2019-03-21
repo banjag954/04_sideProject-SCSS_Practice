@@ -10,7 +10,7 @@ https://banjag954.github.io/04_sideProject-SCSS_Practice/
 #### 참고자료
 
 >__1. SASS guide [Main]__ <br>
->https://sass-lang.com
+>https://sass-lang.com<br>
 >http://www.thesassway.com/<br>
 
 >__2. SASS guide [KR]__ <br>
